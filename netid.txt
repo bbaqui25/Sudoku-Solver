@@ -1,0 +1,5 @@
+CS 342 - Project 3 Sudoku Solver
+
+Aditya Sinha - asinha25
+Bushra Baqui - bbaqui2
+Vignan Thmmu - vthmmu2
